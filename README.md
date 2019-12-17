@@ -1,2 +1,2 @@
-#My App
-This app is awesome
+<h2>My App</h2>
+<p>This app is awesome</p>
